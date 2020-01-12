@@ -11,3 +11,16 @@ header ul {
 .disabled {
   color: grey;
 }
+
+a .disabled{
+   color: purple;
+ }
+
+ .active {
+   color: yellow;
+ }
+
+ div .parent + div .parent{
+    color: red;
+ }
+
