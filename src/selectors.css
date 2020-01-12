@@ -1,0 +1,13 @@
+header {
+  border: solid 1px goldenrod;
+}
+
+header ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.disabled {
+  color: grey;
+}
